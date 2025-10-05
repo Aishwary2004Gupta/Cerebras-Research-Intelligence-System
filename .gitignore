@@ -1,0 +1,15 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+outputs/*.txt
+outputs/*.md
+outputs/*.json
+!outputs/.gitkeep
+*.log
+.DS_Store
+venv_old/
