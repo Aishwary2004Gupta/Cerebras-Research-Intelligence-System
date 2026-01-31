@@ -20,3 +20,5 @@ An advanced multi-agent AI research system powered by Cerebras ultra-fast infere
 1. **Clone the repository**
 ```bash
 cd Cerebras-Research-Intelligence-System
+
+https://future-stack-gen-ai-hackathon-kappa.vercel.app
